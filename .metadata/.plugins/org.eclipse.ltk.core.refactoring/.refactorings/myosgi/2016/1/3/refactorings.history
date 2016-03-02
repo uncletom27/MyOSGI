@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;myosgi.ClassLoader&apos; to &apos;BundlerClassLoader&apos;&#x0A;- Original project: &apos;myosgi&apos;&#x0A;- Original element: &apos;myosgi.ClassLoader&apos;&#x0A;- Renamed element: &apos;myosgi.BundlerClassLoader&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ClassLoader&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;myosgi{ClassLoader.java[ClassLoader" matchStrategy="1" name="BundlerClassLoader" qualified="false" references="true" similarDeclarations="false" stamp="1452681067540" textual="false" version="1.0"/>
-</session>
