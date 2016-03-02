@@ -1,0 +1,3 @@
+name=caller
+activator=caller.MyActivator
+require=service

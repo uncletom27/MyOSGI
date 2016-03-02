@@ -1,0 +1,3 @@
+name=provider2
+activator=provider.MyActivator
+require=service
